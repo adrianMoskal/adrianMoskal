@@ -4,9 +4,9 @@
 
 ## I'm an Applied Computer Science Student
 
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future goals: Become better myself - Never stop improving myself.
-- ⚡ Fun fact: I love World of Warcraft.
+- 📚 I’m currently learning everything about Frontend and Backend technologies
+- 💪🏼 Future goals: Become better myself.
+- ⚡ World of Warcraft fan.
 ---
 
 
