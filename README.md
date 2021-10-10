@@ -13,7 +13,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![.NET Core](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![ASP.NET Core MVC](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azuredevops)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
