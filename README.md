@@ -15,6 +15,7 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=dotnet)&nbsp;
 ![ASP.NET Core MVC](https://img.shields.io/badge/-ASP.NET_Core_MVC-05122A?style=flat&logo=dotnet)&nbsp;
+![EntityFrameworkCore](https://img.shields.io/badge/-Entity_Framework_Core-05122A?style=flat&logo=dotnet)
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visualstudio)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azuredevops)
 
@@ -41,5 +42,3 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
-
-
